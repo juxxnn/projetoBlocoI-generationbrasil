@@ -1,5 +1,10 @@
 # 💻 Bootcamp Generation Brasil Projeto Bloco I
 
+
+![GitHub language count](https://img.shields.io/github/languages/count/juxxnn/projetoBlocoI-generationbrasil)
+![GitHub](https://img.shields.io/github/license/juxxnn/projetoBlocoI-generationbrasil)
+![GitHub repo size](https://img.shields.io/github/repo-size/juxxnn/projetoBlocoI-generationbrasil)
+
 Projeto do BLOCO I do Bootcamp da Generation Brasil.
 O projeto é utilizado os conceitos que obtivemos em Java,
 
