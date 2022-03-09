@@ -1,6 +1,5 @@
 <h1 align='center'>Cinema Generation</h1>
 
-
 ![GitHub language count](https://img.shields.io/github/languages/count/juxxnn/projetoBlocoI-generationbrasil)
 ![GitHub](https://img.shields.io/github/license/juxxnn/projetoBlocoI-generationbrasil)
 ![GitHub repo size](https://img.shields.io/github/repo-size/juxxnn/projetoBlocoI-generationbrasil)
